@@ -1,5 +1,5 @@
 package com.cs407.calculatorapp;
-// Second activity to show the result of the calculation
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
